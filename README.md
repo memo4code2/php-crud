@@ -2,6 +2,7 @@
 Simple PHP CRUD application using MySQL
 📌 PHP CRUD Application
 ![Homepage](crud2/Capture.PNG)
+![Homepage](crud2/Capture2.PNG)
 
 A simple PHP CRUD application using PHP and MySQL.
 
