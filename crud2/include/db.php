@@ -8,8 +8,9 @@ $db='newdev';
 if(! $conn){
     echo die("Cant Connect");
 }else{
-    echo "Connectd";
+    echo "";
 }
+
 
 
 
