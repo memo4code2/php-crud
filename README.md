@@ -1,6 +1,7 @@
 # php-crud
 Simple PHP CRUD application using MySQL
 📌 PHP CRUD Application
+![Homepage](Capture.PNG)
 
 A simple PHP CRUD application using PHP and MySQL.
 
